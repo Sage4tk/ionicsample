@@ -1,0 +1,18 @@
+import { IonContent, IonPage } from "@ionic/react";
+import Container from "../components/shared/Container";
+import DummyScreen from "../components/shared/DummyScreen";
+
+
+const Login:React.FC = () => {
+    return (
+        <IonPage>
+            <IonContent fullscreen>
+                <Container>
+                    <DummyScreen title="Login Page" />
+                </Container>
+            </IonContent>
+        </IonPage>
+    )
+}
+
+export default Login;
