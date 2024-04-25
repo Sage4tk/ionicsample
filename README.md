@@ -4,12 +4,12 @@ This is a coding test for an upwork client. To run please follow the instruction
 
 ## INSTRUCTIONS
 
-1. Install IONIC CLI if you don't have: 
+1. Install IONIC CLI (only if you don't have it installed): 
 ```
 npm install -g @ionic/cli
 ```
 
-2. install all dependencies
+2. Install all dependencies
 ```
 npm i
 ```
